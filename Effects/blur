@@ -1,4 +1,4 @@
-Shader "Custom/Blue" {
+Shader "Custom/Blur" {
 	Properties {
 		_blurSizeXY("BlurSizeXY", Range(0,10)) = 0
 	}
